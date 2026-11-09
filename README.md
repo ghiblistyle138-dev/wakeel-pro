@@ -22,6 +22,17 @@ Wakeel Pro is also available for Android phones — same license, same features:
 
 Download the APK on your phone, allow "Install unknown apps" once, and install.
 
+## System Requirements
+
+**PC (Windows)**
+- Minimum: Windows 10/11 (64-bit), Intel Core i3 (8th gen) or Ryzen 3 or better, 8 GB RAM, SSD, any good microphone — the software runs, dictation has a slight pause
+- Recommended for instant dictation: Intel Core i5 (10th gen) or Ryzen 5 or better (4+ cores), 8–16 GB RAM, SSD, wired/USB microphone
+- No graphics card needed. Internet is only needed for activation and online translation — dictation works fully offline
+
+**Android**
+- Minimum: Android 8.0 or above, 3 GB RAM, 100 MB free space
+- Recommended: Android 11 or above, 4 GB RAM or more
+
 ## Plans
 
 | Plan | Monthly | Yearly |
