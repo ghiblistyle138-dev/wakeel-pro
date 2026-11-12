@@ -1,13 +1,1 @@
-{
-  "pc": {
-    "version": "3.7.9",
-    "url": "https://github.com/ghiblistyle138-dev/wakeel-pro/releases/latest/download/WakeelPro-Setup.exe",
-    "notes": "New: update popup \u2014 future versions now update from inside the app\nYour own 30 Urdu drafts are now the document types, grouped as Civil, Criminal, Family and General\nScanner page limit raised from 10 to 100 pages"
-  },
-  "android": {
-    "versionCode": 10,
-    "versionName": "1.9",
-    "url": "https://github.com/ghiblistyle138-dev/wakeel-pro/releases/download/android-v1.0/WakeelPro-Android.apk",
-    "notes": "New: update popup \u2014 future versions now update from inside the app\nYour own 30 Urdu drafts are now the document types, grouped as Civil, Criminal, Family and General\nScanner page limit raised from 10 to 100 pages"
-  }
-}
+{"android": {"notes": "New: Case Law section in the Legal Library — the 3 newest judgments at the top, all saved judgments below, with court, topic and date filters\nOpen the actual judgment itself — the official court PDF — straight from every card\nBookmark judgments and copy a citation in one tap\nA once-a-day popup tells you when new judgments arrive", "url": "https://github.com/ghiblistyle138-dev/wakeel-pro/releases/download/android-v1.0/WakeelPro-Android.apk", "versionCode": 11, "versionName": "1.10"}, "pc": {"notes": "New: Case Law section in the Legal Library — the 3 newest judgments at the top, all saved judgments below, with court, topic and date filters\nOpen the actual judgment itself — the official court PDF — straight from every card\nBookmark judgments and copy a citation in one tap\nA once-a-day popup tells you when new judgments arrive", "url": "https://github.com/ghiblistyle138-dev/wakeel-pro/releases/latest/download/WakeelPro-Setup.exe", "version": "3.7.10"}}
