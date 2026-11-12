@@ -1,0 +1,13 @@
+{
+  "pc": {
+    "version": "3.7.9",
+    "url": "https://github.com/ghiblistyle138-dev/wakeel-pro/releases/latest/download/WakeelPro-Setup.exe",
+    "notes": "New: update popup \u2014 future versions now update from inside the app\nYour own 30 Urdu drafts are now the document types, grouped as Civil, Criminal, Family and General\nScanner page limit raised from 10 to 100 pages"
+  },
+  "android": {
+    "versionCode": 10,
+    "versionName": "1.9",
+    "url": "https://github.com/ghiblistyle138-dev/wakeel-pro/releases/download/android-v1.0/WakeelPro-Android.apk",
+    "notes": "New: update popup \u2014 future versions now update from inside the app\nYour own 30 Urdu drafts are now the document types, grouped as Civil, Criminal, Family and General\nScanner page limit raised from 10 to 100 pages"
+  }
+}
